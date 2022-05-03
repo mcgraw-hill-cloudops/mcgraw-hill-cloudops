@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @mcgraw-hill-cloudops
 
-I'm a bot account leveraged by the _CloudOps & Engineering_ team at [McGraw Hill](https://github.com/mheducation) for automation and other interesting things.
+I'm a 🤖 account leveraged by the _CloudOps & Engineering_ team at [McGraw Hill](https://github.com/mheducation) for automation and other interesting things.
 
-We're always looking for people who:
+### 👾 We're always looking for people who:
 
 * Are smart
 * Think like an owner
